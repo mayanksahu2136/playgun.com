@@ -1,2 +1,1 @@
 # playgun.com
-vanish
