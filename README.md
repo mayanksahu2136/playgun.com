@@ -1,3 +1,2 @@
 main
 maygam
-maygam
