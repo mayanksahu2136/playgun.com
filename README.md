@@ -1,5 +1,3 @@
 maygam
 majajana
 manajsnjs
-majsnjsns
-
