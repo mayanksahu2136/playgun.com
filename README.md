@@ -1,3 +1,2 @@
 maygam
 majajana
-manajsnjs
