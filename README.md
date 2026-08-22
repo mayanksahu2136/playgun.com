@@ -1,2 +1,1 @@
 maygaams
-,anajgas
