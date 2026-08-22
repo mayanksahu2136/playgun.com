@@ -1,5 +1,3 @@
 maygaams
 ,anajgas
 msvhg
-maygams
-
