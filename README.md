@@ -1,4 +1,2 @@
 maygam
 nsjsb
-sbsheh
-dbdhe
